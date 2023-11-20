@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+mock
+moto
+requests
+cryptography==3.4.8
+PyJWT==2.5.0
+python-json-logger
+pytz
