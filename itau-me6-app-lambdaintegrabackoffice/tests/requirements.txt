@@ -1,8 +1,0 @@
-pytest
-pytest-cov
-mock
-moto
-requests
-PyJWT==2.5.0
-python-json-logger
-pytz
